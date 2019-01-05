@@ -1,9 +1,11 @@
 # Frogtoss Capture the Flag #
 
+![flag title](https://raw.githubusercontent.com/mlabbe/ctfsrc/master/images/titleimage.PNG)
+
 This is the source code to the Pico-8 Cartridge "Frogtoss Capture the Flag".  Pico-8 is a fantasy console that places extreme limitations on what can be done.  A fully shipped and playable version is available:
 
-- [https://www.lexaloffle.com/bbs/?tid=32798](In your browser)
-- [https://frogtoss.itch.io/capture-the-flag](As a downloadable executable)
+- [In your browser](https://www.lexaloffle.com/bbs/?tid=32798)
+- [As a downloadable executable with gamepad support](https://frogtoss.itch.io/capture-the-flag])
 
 I am sharing the source code to Capture the Flag here under a public domain license so people can learn from it.
 
